@@ -2,6 +2,8 @@
 Rolfs Portfolio
 # Technologies used
 Brew
-SSh 
+SSH
 Git
 Github
+Route 53
+AWS
