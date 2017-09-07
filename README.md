@@ -1,2 +1,2 @@
-# Rolf Gregson's Portfolio uses AW & React
+# Rolf Gregson's Portfolio uses AWS & React
 Rolfs Portfolio
