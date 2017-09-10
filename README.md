@@ -6,4 +6,6 @@ SSH
 Git
 Github
 Route 53
-AWS
+AWS Certificate Manager
+AWS Cloudfront
+AWS Codebuild
