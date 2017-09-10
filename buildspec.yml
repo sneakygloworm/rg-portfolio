@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+    build:
+      commands:
+        - echo nothing to to do yet
+artitfacts:
+  files:
+    - index.html
+    - favicon.ico
+    - styles/main.css
+    - images/*
+    - "Rolf Gregson 2017 CV 04-07-17.pdf"
