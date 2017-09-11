@@ -10,3 +10,4 @@ AWS Certificate Manager
 AWS Cloudfront
 AWS Codebuild
 Python
+SNS
